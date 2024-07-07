@@ -1,5 +1,5 @@
 ### Bem Vindo ao Meu Perfil ⚡ 
-#### Heyson Silva <br> Natal-RN, 19 Anos <br> Web Developer
+#### Heyson Silva <br> Web Developer
 #
 ### <center> Entre em Contato </center>
 <center>
