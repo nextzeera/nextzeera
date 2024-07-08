@@ -1,8 +1,6 @@
 ### Bem Vindo ao Meu Perfil ⚡ 
 #### Heyson Silva <br> Web Developer
 #
-
-#
 ### <center> Linguagens e Tecnologias </center>
 
 <center>
