@@ -1,13 +1,6 @@
 ### Bem Vindo ao Meu Perfil ⚡ 
 #### Heyson Silva <br> Web Developer
 #
-### <center> Entre em Contato </center>
-<center>
-
-[![wpp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.link/ju5q3v)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](heysonsilva98@gmail.com)
-
-</center>
 
 #
 ### <center> Linguagens e Tecnologias </center>
