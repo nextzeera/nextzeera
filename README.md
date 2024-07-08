@@ -1,7 +1,12 @@
 ### Bem Vindo ao Meu Perfil ⚡ 
-#### Heyson Silva <br> Web Developer
-#
-### <center> Linguagens e Tecnologias </center>
+Prazer Heyson Silva, graduando em redes de computadores e tenho formação como técnico em informática, ambas pelo IFRN. <br>
+
+Como um grande entusiasta de programação estou sempre em busca de experiências na área, tenho proficiência nas linguagens JavaScript e Python. <br>
+Objetivando minha inserção no mercado, estou sempre praticando e compartilhando aqui no meu perfil, projetos pessoais e acadêmicos que ajudam a consolidar meus conhecimentos.
+<br>
+👨‍💻 | Linguagens e Tecnologias: Python, JavaScript, Html & CSS, Bootstrap.
+<br>
+💡 | Busco constantemente aprimorar meu conhecimento, participando de cursos e e obtendo certificações que acrescentem valor à minha jornada como desenvolvedor. Estou entusiasmado com os desafios e oportunidades que a programação oferece, e estou comprometido em contribuir para projetos inovadores.
 
 <center>
 
